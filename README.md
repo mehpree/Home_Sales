@@ -1,5 +1,5 @@
 
-# Home Sales Data Analysis with SparkSQL - Overview
+# Home Sales Data Analysis with SparkSQL
 
 This project is a comprehensive exploration of home sales data utilizing Apache Spark and SparkSQL. It involves a series of tasks that allow us to derive key insights and metrics from the dataset. Below is a concise overview of the project:
 
