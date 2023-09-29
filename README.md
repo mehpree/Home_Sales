@@ -1,5 +1,6 @@
 
 # Home Sales Data Analysis with SparkSQL
+![2D-floor-pla-transparent](https://github.com/mehpree/Home_Sales/assets/131678606/83a7ce03-ac9a-4a41-a7ed-0aae94bf3129)
 
 This project is a comprehensive exploration of home sales data utilizing Apache Spark and SparkSQL. It involves a series of tasks that allow us to derive key insights and metrics from the dataset. Below is a concise overview of the project:
 
